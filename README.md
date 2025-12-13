@@ -4,13 +4,14 @@
 I am a **Technical Support Representative transitioning into Data Analysis**, with over **2+ years of experience** in technical troubleshooting and customer-facing roles at **Hewlett Packard (India)**.
 
 I am passionate about turning data into meaningful insights and currently building strong foundations in SQL and data analysis through hands-on learning and projects.
-
+Built beginner Power BI project.
 ---
 
 ## 🎓 Learning & Development
 - 📘 Currently learning **The Complete SQL Bootcamp** (Udemy) by **Baraa Khatib Salkini**
 - ✅ Completed **Beginner-Level SQL**
 - 🔄 Learning **Intermediate-Level SQL** with hands-on projects
+- 📘 Built beginner Power BI project based on Leila Gharani’s tutorials  
 
 ---
 ## 🛠️ Tech Stack
@@ -18,6 +19,9 @@ I am passionate about turning data into meaningful insights and currently buildi
 - **Databases:** MySQL, MS SQL Server
 - **Tools & Platforms:** Windows 11
 - **Frameworks & Libraries:** SQL Databases
+- - Microsoft Power BI
+- Power Query
+- Excel
 ---
 ## 📘 SQL Learning Progress
 
