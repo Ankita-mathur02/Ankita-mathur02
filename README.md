@@ -6,22 +6,17 @@ I am a **Technical Support Representative transitioning into Data Analysis**, wi
 I am passionate about turning data into meaningful insights and currently building strong foundations in SQL and data analysis through hands-on learning and projects.
 Built beginner Power BI project.
 ---
-
 ## 🎓 Learning & Development
 - 📘 Currently learning **The Complete SQL Bootcamp** (Udemy) by **Baraa Khatib Salkini**
 - ✅ Completed **Beginner-Level SQL**
 - 🔄 Learning **Intermediate-Level SQL** with hands-on projects
 - 📘 Built beginner Power BI project based on Leila Gharani’s tutorials  
-
 ---
 ## 🛠️ Tech Stack
 - **Languages:** SQL
 - **Databases:** MySQL, MS SQL Server
-- **Tools & Platforms:** Windows 11
-- **Frameworks & Libraries:** SQL Databases
-- - Microsoft Power BI
-- Power Query
-- Excel
+- **Tools & Platforms:** Windows 11, Microsoft Power BI ,Excel
+- **Frameworks & Libraries:** SQL Databases,Power BI Desktop,Power Query
 ---
 ## 📘 SQL Learning Progress
 
@@ -39,7 +34,6 @@ Built beginner Power BI project.
 - Case statements
 - Hands-on projects using real-world datasets
 ---
-
 ## 🛠️ Skills
 **Data Analysis:**
 - SQL (Beginner → Intermediate)
@@ -55,7 +49,6 @@ Built beginner Power BI project.
 - Using basic visuals (tables, charts, slicers)
   
  - Excel: Intermediate (functions, pivot tables, lookups, charts)
-
 ---
 
 **Technical & Professional Skills:**
