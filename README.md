@@ -1,14 +1,18 @@
 # Hi there👋, I'm Ankita Mathur
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Learning+SQL+and+Data+Analysis;Learning+Power+BI+%7C+Data+Enthusiast;Turning+Data+into+Insights" alt="Typing SVG" />
+</p>
 
 ##  About Me
 I am a **Technical Support Representative transitioning into Data Analysis**, with over **2+ years of experience** in technical troubleshooting and customer-facing roles at **Hewlett Packard (India)**.
-
 ### I am passionate about **learning data analysis** because it turns data into meaningful insights. Currently building strong foundations in SQL and data analysis through hands-on learning and projects. I have hands on experience in POWER BI through beginner Power BI project tutorials.
 **Technical & Professional Skills:**
 - Technical troubleshooting
 - Customer support & communication
 - Documentation & reporting
-
+- ### Education
+🎓 **Bachelor of Technology (B.Tech)**  
+**Electronics and Communication Engineering (ECE)**  
 ## Learning & Development
 ## Table of Contents
 - [Tech Stack](#tech-stack)
@@ -18,8 +22,6 @@ I am a **Technical Support Representative transitioning into Data Analysis**, wi
   - [Data Visualization](#data-visualization)
 - [Projects](#projects)
 - [Interests](#interests)
-
-
 ---
 ## Tech Stack
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -35,21 +37,6 @@ I am a **Technical Support Representative transitioning into Data Analysis**, wi
 - 📘 Currently learning **The Complete SQL Bootcamp** (Udemy) by **Baraa Khatib Salkini**
 - ✅ Completed **Beginner-Level SQL**
 - 🔄 Learning **Intermediate-Level SQL** with hands-on projects
-
-
-Beginner Level (Completed)
-- Writing basic SQL queries to retrieve data
-- Using `SELECT`, `WHERE`, `ORDER BY`, and `LIMIT`
-- Filtering and sorting datasets
-- Using aggregate functions: `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`
-- Grouping data using `GROUP BY` and filtering with `HAVING`
-- Understanding basic database concepts and table relationships
-
-Intermediate Level (In Progress)
-- Working with `JOIN` operations
-- Subqueries and nested queries
-- Case statements
-- Hands-on projects using real-world datasets
 ---
 ## Skills
 ### Data Analysis
@@ -59,7 +46,6 @@ Intermediate Level (In Progress)
 -  Excel (formulas, pivot tables, data cleaning)
 ---
  ## Data Visualization
-
  Power BI (Beginner Level) 
 -  Built beginner Power BI project based on Leila Gharani’s tutorials
 - Understanding Power BI interface and workflow
@@ -74,15 +60,12 @@ Intermediate Level (In Progress)
 - 🔹 **Hands-on SQL Projects** – Intermediate-level analysis projects (in progress)
 
 *(More projects coming as I continue learning)*
-
 ---
-
 ## Interests
 - Data Analysis
 - SQL & Databases
 - Business insights from data
 - Continuous learning and skill development
-
 ---
 
 ⭐️ Thanks for visiting my profile!
