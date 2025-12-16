@@ -22,6 +22,10 @@ I am a **Technical Support Representative transitioning into Data Analysis**, wi
 
 ---
 ## Tech Stack
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 - **Languages:** SQL
 - **Databases:** MySQL, MS SQL Server
 - **Tools & Platforms:** Windows 11, Microsoft Power BI ,Excel
