@@ -4,12 +4,19 @@
 I am a **Technical Support Representative transitioning into Data Analysis**, with over **2+ years of experience** in technical troubleshooting and customer-facing roles at **Hewlett Packard (India)**.
 
 ### I am passionate about **learning data analysis** because it turns data into meaningful insights. Currently building strong foundations in SQL and data analysis through hands-on learning and projects. I have hands on experience in POWER BI through beginner Power BI project tutorials.
----
-## 🎓 Learning & Development
-- 📘 Currently learning **The Complete SQL Bootcamp** (Udemy) by **Baraa Khatib Salkini**
-- ✅ Completed **Beginner-Level SQL**
-- 🔄 Learning **Intermediate-Level SQL** with hands-on projects
-- 📘 Built beginner Power BI project based on Leila Gharani’s tutorials  
+**Technical & Professional Skills:**
+- Technical troubleshooting
+- Customer support & communication
+- Documentation & reporting
+
+##  Learning & Development
+- [Tech Stack](#tech-stack)
+- [SQL Learning Progress](#sql-learning-progress)
+- [Skills](#skills)
+- [Technical & Professional Skills](#technical--professional-skills)
+- [Projects](#projects)
+- [Interests](#interests)
+
 ---
 ## 🛠️ Tech Stack
 - **Languages:** SQL
@@ -18,6 +25,10 @@ I am a **Technical Support Representative transitioning into Data Analysis**, wi
 - **Frameworks & Libraries:** SQL Databases,Power BI Desktop,Power Query
 ---
 ## 📘 SQL Learning Progress
+- 📘 Currently learning **The Complete SQL Bootcamp** (Udemy) by **Baraa Khatib Salkini**
+- ✅ Completed **Beginner-Level SQL**
+- 🔄 Learning **Intermediate-Level SQL** with hands-on projects
+
 
 ### Beginner Level (Completed)
 - Writing basic SQL queries to retrieve data
@@ -40,7 +51,8 @@ I am a **Technical Support Representative transitioning into Data Analysis**, wi
 - Problem-solving & analytical thinking
 - ## 📊 Data Visualization
 
-### Power BI (Beginner Level)
+### Power BI (Beginner Level) 
+-  Built beginner Power BI project based on Leila Gharani’s tutorials
 - Understanding Power BI interface and workflow
 - Connecting to data sources
 - Basic data cleaning and transformation using Power Query
@@ -50,12 +62,6 @@ I am a **Technical Support Representative transitioning into Data Analysis**, wi
  - Excel: Intermediate (functions, pivot tables, lookups, charts)
 ---
 
-**Technical & Professional Skills:**
-- Technical troubleshooting
-- Customer support & communication
-- Documentation & reporting
-
----
 
 ## 📌 Projects
 - 🔹 **SQL Practice Projects** – Queries using Select, From, WHERE, GROUP BY , ORDER BY , COUNT, AVG using dataset created by practice project
