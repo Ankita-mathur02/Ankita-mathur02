@@ -52,6 +52,7 @@ Intermediate Level (In Progress)
 - SQL (Beginner → Intermediate)
 - Data querying & analysis
 - Problem-solving & analytical thinking
+-  Excel (formulas, pivot tables, data cleaning)
 ---
  ## Data Visualization
 
@@ -62,7 +63,6 @@ Intermediate Level (In Progress)
 - Basic data cleaning and transformation using Power Query
 - Creating simple reports and dashboards
 - Using basic visuals (tables, charts, slicers)
-- Excel: Intermediate (functions, pivot tables, lookups, charts)
 ---
 
 ## Projects
