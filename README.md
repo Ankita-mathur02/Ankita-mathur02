@@ -62,7 +62,7 @@ Intermediate Level (In Progress)
 - Basic data cleaning and transformation using Power Query
 - Creating simple reports and dashboards
 - Using basic visuals (tables, charts, slicers)
-  - Excel: Intermediate (functions, pivot tables, lookups, charts)
+- Excel: Intermediate (functions, pivot tables, lookups, charts)
 ---
 
 ## Projects
