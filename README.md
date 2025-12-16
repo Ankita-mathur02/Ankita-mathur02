@@ -9,11 +9,10 @@ I am a **Technical Support Representative transitioning into Data Analysis**, wi
 - Customer support & communication
 - Documentation & reporting
 
-##  Learning & Development
+##Learning & Development
 - [Tech Stack](#tech-stack)
 - [SQL Learning Progress](#sql-learning-progress)
 - [Skills](#skills)
-- [Technical & Professional Skills](#technical--professional-skills)
 - [Projects](#projects)
 - [Interests](#interests)
 
