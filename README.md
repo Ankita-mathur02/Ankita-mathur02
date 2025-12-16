@@ -10,26 +10,30 @@ I am a **Technical Support Representative transitioning into Data Analysis**, wi
 - Documentation & reporting
 
 ## Learning & Development
+## Table of Contents
 - [Tech Stack](#tech-stack)
 - [SQL Learning Progress](#sql-learning-progress)
 - [Skills](#skills)
+  - [Data Analysis](#data-analysis)
+  - [Data Visualization](#data-visualization)
 - [Projects](#projects)
 - [Interests](#interests)
 
+
 ---
-## 🛠️ Tech Stack
+## Tech Stack
 - **Languages:** SQL
 - **Databases:** MySQL, MS SQL Server
 - **Tools & Platforms:** Windows 11, Microsoft Power BI ,Excel
 - **Frameworks & Libraries:** SQL Databases,Power BI Desktop,Power Query
 ---
-## 📘 SQL Learning Progress
+## SQL Learning Progress
 - 📘 Currently learning **The Complete SQL Bootcamp** (Udemy) by **Baraa Khatib Salkini**
 - ✅ Completed **Beginner-Level SQL**
 - 🔄 Learning **Intermediate-Level SQL** with hands-on projects
 
 
-### Beginner Level (Completed)
+Beginner Level (Completed)
 - Writing basic SQL queries to retrieve data
 - Using `SELECT`, `WHERE`, `ORDER BY`, and `LIMIT`
 - Filtering and sorting datasets
@@ -37,32 +41,31 @@ I am a **Technical Support Representative transitioning into Data Analysis**, wi
 - Grouping data using `GROUP BY` and filtering with `HAVING`
 - Understanding basic database concepts and table relationships
 
-### Intermediate Level (In Progress)
+Intermediate Level (In Progress)
 - Working with `JOIN` operations
 - Subqueries and nested queries
 - Case statements
 - Hands-on projects using real-world datasets
 ---
-## 🛠️ Skills
+## Skills
 ### Data Analysis
 - SQL (Beginner → Intermediate)
 - Data querying & analysis
 - Problem-solving & analytical thinking
-- ## 📊 Data Visualization
+---
+ ## Data Visualization
 
-### Power BI (Beginner Level) 
+ Power BI (Beginner Level) 
 -  Built beginner Power BI project based on Leila Gharani’s tutorials
 - Understanding Power BI interface and workflow
 - Connecting to data sources
 - Basic data cleaning and transformation using Power Query
 - Creating simple reports and dashboards
 - Using basic visuals (tables, charts, slicers)
-  
- - Excel: Intermediate (functions, pivot tables, lookups, charts)
+  - Excel: Intermediate (functions, pivot tables, lookups, charts)
 ---
 
-
-## 📌 Projects
+## Projects
 - 🔹 **SQL Practice Projects** – Queries using Select, From, WHERE, GROUP BY , ORDER BY , COUNT, AVG using dataset created by practice project
 - 🔹 **Hands-on SQL Projects** – Intermediate-level analysis projects (in progress)
 
@@ -70,7 +73,7 @@ I am a **Technical Support Representative transitioning into Data Analysis**, wi
 
 ---
 
-## 🌱 Interests
+## Interests
 - Data Analysis
 - SQL & Databases
 - Business insights from data
