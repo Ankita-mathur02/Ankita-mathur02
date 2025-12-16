@@ -14,7 +14,6 @@ I am a **Technical Support Representative transitioning into Data Analysis**, wi
 🎓 **Bachelor of Technology (B.Tech)**  
 **Electronics and Communication Engineering (ECE)**  
 ## Learning & Development
-## Table of Contents
 - [Tech Stack](#tech-stack)
 - [SQL Learning Progress](#sql-learning-progress)
 - [Skills](#skills)
@@ -42,7 +41,6 @@ I am a **Technical Support Representative transitioning into Data Analysis**, wi
 ### Data Analysis
 - SQL (Beginner → Intermediate)
 - Data querying & analysis
-- Problem-solving & analytical thinking
 -  Excel (formulas, pivot tables, data cleaning)
 ---
  ## Data Visualization
@@ -54,7 +52,6 @@ I am a **Technical Support Representative transitioning into Data Analysis**, wi
 - Creating simple reports and dashboards
 - Using basic visuals (tables, charts, slicers)
 ---
-
 ## Projects
 - 🔹 **SQL Practice Projects** – Queries using Select, From, WHERE, GROUP BY , ORDER BY , COUNT, AVG using dataset created by practice project
 - 🔹 **Hands-on SQL Projects** – Intermediate-level analysis projects (in progress)
