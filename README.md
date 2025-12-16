@@ -6,10 +6,6 @@
 ##  About Me
 I am a **Technical Support Representative transitioning into Data Analysis**, with over **2+ years of experience** in technical troubleshooting and customer-facing roles at **Hewlett Packard (India)**.
 ### I am passionate about **learning data analysis** because it turns data into meaningful insights. Currently building strong foundations in SQL and data analysis through hands-on learning and projects. I have hands on experience in POWER BI through beginner Power BI project tutorials.
-**Technical & Professional Skills:**
-- Technical troubleshooting
-- Customer support & communication
-- Documentation & reporting
 - ### Education
 🎓 **Bachelor of Technology (B.Tech)**  
 **Electronics and Communication Engineering (ECE)**  
@@ -27,21 +23,16 @@ I am a **Technical Support Representative transitioning into Data Analysis**, wi
 ![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-- **Languages:** SQL
-- **Databases:** MySQL, MS SQL Server
-- **Tools & Platforms:** Windows 11, Microsoft Power BI ,Excel
-- **Frameworks & Libraries:** SQL Databases,Power BI Desktop,Power Query
 ---
 ## SQL Learning Progress
 - 📘 Currently learning **The Complete SQL Bootcamp** (Udemy) by **Baraa Khatib Salkini**
-- ✅ Completed **Beginner-Level SQL**
 - 🔄 Learning **Intermediate-Level SQL** with hands-on projects
 ---
 ## Skills
 ### Data Analysis
 - SQL (Beginner → Intermediate)
 - Data querying & analysis
--  Excel (formulas, pivot tables, data cleaning)
+- Excel (formulas, pivot tables, data cleaning)
 ---
  ## Data Visualization
  Power BI (Beginner Level) 
