@@ -18,6 +18,8 @@ I am a **Technical Support Representative transitioning into Data Analysis**, wi
   - [Data Visualization](#data-visualization)
 - [Projects](#projects)
 - [Interests](#interests)
+- [Connect With Me](https://www.linkedin.com/in/ankita-mathur-439969362/)
+
 ---
 ## Tech Stack
 ![Microsoft Azure AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -63,5 +65,12 @@ I am a **Technical Support Representative transitioning into Data Analysis**, wi
 - Business insights from data
 - Continuous learning and skill development
 ---
+## Connect With Me 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankita-mathur-439969362/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
 
 ⭐️ Thanks for visiting my profile!
